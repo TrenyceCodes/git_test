@@ -1,2 +1,2 @@
 # git_test
-This is the git_test project from TheOdinProject
+This is the my git_test project from following TheOdinProject
